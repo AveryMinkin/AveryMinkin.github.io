@@ -10,4 +10,3 @@ layout: page
 
 [RESUME_AveryMinkin pdf](RESUME_AveryMinkin.pdf)
 
-## Links
