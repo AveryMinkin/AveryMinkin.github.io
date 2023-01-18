@@ -1,7 +1,7 @@
 title: "Avery Minkin"
 author: "Avery Minkin"
 description: "University of Massachusetts Amherst"
-permalink: /:title/
+# permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
