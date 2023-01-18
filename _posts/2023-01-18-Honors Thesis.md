@@ -4,6 +4,7 @@ layout: post
 ---
 
 Summary and updates on my thesis: exploring the viability of motion tracking and feedback during nursing procedures. This work is being done in collaboration with the [Mechatronics and Robotics Research Lab][MRRL] at UMass Amherst. 
+
 Committee Chair: Professor Frank Sup
 
 
