@@ -7,8 +7,9 @@ Summary and updates on my thesis: exploring the viability of motion tracking and
 
 Committee Chair: Professor Frank Sup
 
+# Computer Vision: Mediapipe and YOLO Object tracking
 
-Summarize work here. Add videos, links to files, updates.
+Initial trial to use YOLO to crop "person" objects in a frame and run hand or pose tracking on them through Mediapipe
 
 {% include embed.html url="[https://www.youtube.com/embed/_C0A5zX-iqM](https://www.youtube.com/watch?v=ujhqqQvhGOc&ab_channel=AveryMinkin)" %}
 
