@@ -1,5 +1,5 @@
 ---
-title: "Commonwealth Honors Thesis"
+title: "Honors Thesis: Motion Tracking in Nursing"
 layout: post
 ---
 
