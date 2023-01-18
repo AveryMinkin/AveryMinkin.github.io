@@ -13,9 +13,14 @@ Initial trial to use YOLO to crop "person" objects in a frame and run hand or po
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ujhqqQvhGOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
+## Literature Review
+
+[Literature Review.pdf](https://github.com/AveryMinkin/AveryMinkin.github.io/files/10449816/Literature.Review.pdf)
+
 Hand Tracking Script using Mediapipe:
 
 {% highlight ruby %}
+
    #scripts go here
 
 {% endhighlight %}
