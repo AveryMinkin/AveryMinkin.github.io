@@ -11,7 +11,6 @@ Committee Chair: Professor Frank Sup
 
 Initial trial to use YOLO to crop "person" objects in a frame and run hand or pose tracking on them through Mediapipe
 
-{% include embed.html url="[https://www.youtube.com/embed/_C0A5zX-iqM](https://www.youtube.com/watch?v=ujhqqQvhGOc&ab_channel=AveryMinkin)" %}
 
 Hand Tracking Script using Mediapipe:
 
