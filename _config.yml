@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
   - {file: "index.html", title: "Engineering Portfolio"}
   - {file: "README.md", title: "Art Portfolio"}
-  - {file: "index_res.html", title: "Resume"}
+  - {file: "resume.md", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:avtmnkn@gmail.com"}
