@@ -4,7 +4,7 @@ permalink: "/home/"
 layout: page
 ---
 
-![SeanPenn](https://user-images.githubusercontent.com/116295445/213243812-09dc79fd-01f6-4a33-a15e-77646353951c.JPG)
+![IMG_4148](https://user-images.githubusercontent.com/116295445/213271574-0853addf-1f31-48bc-a4f5-aced9f3567f1.jpg)
 
 ## Resume
 
