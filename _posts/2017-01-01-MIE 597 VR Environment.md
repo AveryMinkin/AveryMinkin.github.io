@@ -28,4 +28,5 @@ This is a proof of concept environment designed as a tool for retailors to test 
 
 ## Link to Files
 
-https://github.com/AveryMinkin/MIE-597VR-Retail-Store-
+[MIE 597VR Retail Store Files](https://github.com/AveryMinkin/MIE-597VR-Retail-Store-)
+
