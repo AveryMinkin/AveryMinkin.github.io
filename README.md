@@ -1,99 +1,26 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
-
-## Installation
-
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
-
-## Features
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+## Life's A Trip
+![Life's A Trip](https://user-images.githubusercontent.com/116295445/213798338-8376969e-f11d-45c2-923b-19ea81caf4db.jpg)
+## Gorillaz T.T.
+![Gorillaz T T](https://user-images.githubusercontent.com/116295445/213798386-302c795b-d0f3-45e0-870d-3491cd06075c.JPG)
+## Boat
+![Boat](https://user-images.githubusercontent.com/116295445/213798464-61a09b2e-2480-4737-b50d-d4376c052d9d.jpg)
+## Bryce is Tryna Throw
+![IMG_3295](https://user-images.githubusercontent.com/116295445/213798785-acac4eb0-5f6a-41fc-82a2-fad879ce4fa0.jpg)
+## The Negative
+![The Negative](https://user-images.githubusercontent.com/116295445/213800056-b6fab799-d34b-4ca9-87f8-b16039f8e373.JPG)
+## MOUTH!
+![MOUTH!](https://user-images.githubusercontent.com/116295445/213798874-1887d916-2d91-4bee-9918-3ec182a8a955.jpg)
+## The Beautiful and Damned
+![Beatiful and Damned](https://user-images.githubusercontent.com/116295445/213798993-0db7ca44-7ae9-4e34-9ab6-753a72e33e48.jpg)
+## Sign Language 
+![Sign Language](https://user-images.githubusercontent.com/116295445/213799063-7ac933cc-e24f-4f03-b3ea-f21455371400.jpg)
+## Key
+![Key](https://user-images.githubusercontent.com/116295445/213799178-ef4223bc-acdf-4802-a474-d1ef8ffb0ddc.jpg)
+## 2 Face Vase
+![2FaceVase](https://user-images.githubusercontent.com/116295445/213799294-51e98ac0-f9e2-45b7-a599-5cd0db188ec7.jpg)
+## Animal Sketches
+![Animal Sketches](https://user-images.githubusercontent.com/116295445/213799344-1b157ebb-6735-495a-acbd-5d41c4fd7096.jpg)
+## There's a Metaphore in Here Somewhere
+![2 cities](https://user-images.githubusercontent.com/116295445/213799493-dfb2fbee-e662-46ee-b762-d72e9a874b47.jpg)
+## Sketch
+![Sketch](https://user-images.githubusercontent.com/116295445/213799585-981f86af-2fb5-4476-b6c9-0dda2c02e745.jpg)
