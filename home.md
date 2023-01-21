@@ -8,5 +8,4 @@ layout: page
 
 ## Resume
 
-[RESUME_AveryMinkin pdf](RESUME_AveryMinkin.pdf)
-
+[RESUME_AveryMinkin.pdf](https://github.com/AveryMinkin/AveryMinkin.github.io/files/10472751/RESUME_AveryMinkin.pdf)
