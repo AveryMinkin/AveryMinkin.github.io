@@ -1,4 +1,3 @@
-## Art Portfolio
 
 ## Life's A Trip
 ![Life's A Trip](https://user-images.githubusercontent.com/116295445/213798338-8376969e-f11d-45c2-923b-19ea81caf4db.jpg)
