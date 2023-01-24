@@ -1,5 +1,5 @@
 ---
-title: "Honors Thesis: Motion Tracking in Nursing"
+title: "Honors Thesis: Evaluating the Viability of Motion Tracking in Nurse Training Applications"
 layout: post
 ---
 
