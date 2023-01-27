@@ -4,7 +4,7 @@ permalink: "/home/"
 layout: page
 ---
 
-![IMG_4148](https://user-images.githubusercontent.com/116295445/213271574-0853addf-1f31-48bc-a4f5-aced9f3567f1.jpg)
+![umass home pg](https://user-images.githubusercontent.com/116295445/215149827-d4ee02b1-76b8-475a-ba30-dc5e902a1dfa.jpg)
 
 ## Resume
 
